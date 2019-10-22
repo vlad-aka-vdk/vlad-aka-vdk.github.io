@@ -1,0 +1,37 @@
+span, strong {
+	display: inline-block;
+}
+h1 {
+	font-size: 20px;
+}
+
+.header {
+	padding-top: 20px;
+}
+
+.form {
+	border: 5px solid blue;
+	height: 315px;
+	padding: 20px;
+}
+
+h2 {
+	font-size: 18px;
+}
+
+.form-item {
+	margin-top: 30px;
+}
+
+.video {
+	margin-top: 30px;
+}
+.feature {
+	margin-top: 30px;
+}
+.pic4 {
+	margin-top: 30px;
+}
+.btn2 {
+	margin-top: 30px;
+}
